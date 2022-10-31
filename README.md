@@ -116,7 +116,7 @@ public class DataSourcePointApplication {
 
 
 
-在数据源连接信息这块，也饿时需要修改的，你的项目99.999%不会和这里一样，只需要将自己的项目多个数据库连接信息保存在 `DynamicDataSourceConfig` 中即可。
+在数据源连接信息这块，也是需要修改的，你的项目99.999%不会和这里一样，只需要将自己的项目多个数据库连接信息保存在 `DynamicDataSourceConfig` 中即可。
 
 ```java
 package com.osys.dynamic.datasource.runner;
